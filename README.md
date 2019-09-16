@@ -18,7 +18,7 @@ List of accomplished projects with my full or partial involvement.
 - http://kalugamebel24.ru — furniture shop website, made with WordPress in 24 hours. Trippled shop profits in half a year.
 - http://psp-company.ru — firefighting equipment shop. Intergrated with 1C.
 
-##Content websites
+## Content websites
 - https://potionsquirrel.ru — receipe blog, made with WordPress
 
 ## Services
