@@ -1,7 +1,11 @@
 # My Projects
 List of accomplished projects with my full or partial involvement.
 
+## Platforms
+- https://my.whisk.com - PM of the web-surfaces on Whisk.com. Complex web app with lots of user-facing features and SEO aspects
+
 ## Websites
+- https://whisk.com - highly optimized marketing website with custom-made theme, plugins, Gutenberg blocks and various API integrations
 - http://russtroy40.ru — portfolio website for a local building contractor. Made with WordPress, customized premium theme and a LOT of photos.
 - https://arbal.ru — Moscow dental clinic website development. Wordpress + customized premium theme The7.
 - http://xn--80aaaad6cgqidughdm8l.xn--p1ai/ — a beauty shop website. Made with Wordpress, custom theme.
@@ -21,5 +25,5 @@ List of accomplished projects with my full or partial involvement.
 ## Content websites
 - https://potionsquirrel.ru — receipe blog, made with WordPress
 
-## Services
+## SaaS
 - https://dostavkin.com — From first wire-frames to first profits. Web-based service for finding cheap transportation of various goods. Made with WordPress, launched in 2014.
